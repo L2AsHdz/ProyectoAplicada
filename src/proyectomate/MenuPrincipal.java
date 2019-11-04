@@ -281,7 +281,11 @@ public class MenuPrincipal extends javax.swing.JFrame {
 
     private void aboutMouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_aboutMouseClicked
         JOptionPane.showMessageDialog(rootPane, "Programadores: "
-                + "\nLeonidas Asael Hernandez Lopez 201730192"
+                + "\n201631632 Rubén Emilio Molina Contreras"
+                + "\n201730192 Leonidas Asael Hernandez Lopez"
+                + "\n201730246 José Carlos Soberanis Ramírez"
+                + "\n201731086 Jose Daniel Mazariegos Antón"
+                + "\n201731241 Daniel Albizurez Alpirez"
                 + "");
     }//GEN-LAST:event_aboutMouseClicked
 
