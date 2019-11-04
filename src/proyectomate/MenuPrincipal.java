@@ -285,6 +285,7 @@ public class MenuPrincipal extends javax.swing.JFrame {
                 + "\n201730192 Leonidas Asael Hernandez Lopez"
                 + "\n201730246 José Carlos Soberanis Ramírez"
                 + "\n201731086 Jose Daniel Mazariegos Antón"
+                + "\n201731087 Jose Fernando Guerra Muñoz"
                 + "\n201731241 Daniel Albizurez Alpirez"
                 + "");
     }//GEN-LAST:event_aboutMouseClicked
